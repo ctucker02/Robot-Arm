@@ -1,5 +1,5 @@
 # Robot-Arm
-The Robot Arm is the first project of the year. We are going to use all of our newfound circuitpython skills to develop a Robot Arm.
+The first project of the year. We are going to use all of our newfound circuitpython skills to develop a Robot Arm.
 ## Timeline
 ### Week 1: Fully plan out project.
 ### Week 2: Start working on Solidworks.
